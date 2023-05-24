@@ -1,0 +1,147 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  TakeCityCard_12.cpp
+  Switch_To_Play_Mode.cpp
+  Switch_To_Design_Mode.cpp
+  Snake.cpp
+  SellCity.cpp
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\SellCity.cpp(55,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\SellCity.cpp(76,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\SellCity.cpp(97,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\SellCity.cpp(118,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\SellCity.cpp(139,68): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  SaveGridAction.cpp
+  RollDiceAction.cpp
+  ReturnMortgagedCard_14.cpp
+  ReturnMortgage.cpp
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\ReturnMortgage.cpp(56,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\ReturnMortgage.cpp(57,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\ReturnMortgage.cpp(75,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\ReturnMortgage.cpp(76,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\ReturnMortgage.cpp(93,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\ReturnMortgage.cpp(94,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\ReturnMortgage.cpp(111,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\ReturnMortgage.cpp(112,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\ReturnMortgage.cpp(129,67): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\ReturnMortgage.cpp(130,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  PreventCard_4.cpp
+  Main.cpp
+  Player.cpp
+  PasteCardORCoinAction.cpp
+  Output.cpp
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\Output.cpp(522,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\Output.cpp(524,101): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\Output.cpp(524,82): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  OpenGridAction.cpp
+  OfferMortgage.cpp
+  NextCard_2.cpp
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\NextCard_2.cpp(20,6): warning C4101: 'v': unreferenced local variable
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\NextCard_2.cpp(21,6): warning C4101: 'h': unreferenced local variable
+  NewGame.cpp
+  LuxorCard_10.cpp
+  LoseCityCard_13.cpp
+  Generating Code...
+  Compiling...
+  Ladder.cpp
+  InputDiceValue.cpp
+  Input.cpp
+  HurghadaCard_11.cpp
+  Grid.cpp
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\Grid.cpp(246,23): warning C4305: 'initializing': truncation from '__int64' to 'int'
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\Grid.cpp(246,12): warning C4309: 'initializing': truncation of constant value
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\Grid.cpp(1008,23): warning C4018: '<': signed/unsigned mismatch
+  GameObject.cpp
+  FreezeCard_6.cpp
+  FireCard_5.cpp
+  DeleteGameObject.cpp
+  windowinput.cpp
+  mousequeue.cpp
+  keyqueue.cpp
+  image.cpp
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\image.cpp(116,29): warning C4018: '<': signed/unsigned mismatch
+  colors.cpp
+  CMUgraphics.cpp
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\CMUgraphics.cpp(257,9): warning C4101: 'iX': unreferenced local variable
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\CMUgraphics.cpp(257,13): warning C4101: 'iY': unreferenced local variable
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\CMUgraphics.cpp(751,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\CMUgraphics.cpp(1164,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\CMUgraphics.cpp(1171,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\CMUgraphics.cpp(1202,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\CMUgraphics.cpp(1210,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\CMUgraphics.cpp(1357,23): warning C4018: '>': signed/unsigned mismatch
+  auxil.cpp
+  CellPosition.cpp
+  Cell.cpp
+  DecWalletCard_1.cpp
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\DecWalletCard_1.cpp(74,7): warning C4101: 'a': unreferenced local variable
+  CutCardORCoinSetAction.cpp
+  Generating Code...
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CellPosition.cpp(141): warning C4715: 'CellPosition::GetCellNumFromPosition': not all control paths return a value
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\Grid.cpp(1004): warning C4715: 'Grid::PlayerHasCities': not all control paths return a value
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\Grid.cpp(1061): warning C4715: 'Grid::WinnerPlayer': not all control paths return a value
+  Compiling...
+  CopyCardAction.cpp
+  CoinSet.cpp
+  Card.cpp
+  CairoCard_7.cpp
+  BenefitAllCard_15.cpp
+  BackwardCard_3.cpp
+  AswanCard_9.cpp
+  ApplicationManager.cpp
+  AlexCard_8.cpp
+  AddSnakeAction.cpp
+  AddLadderAction.cpp
+  AddCoinSetAction.cpp
+  AddCardAction.cpp
+  Action.cpp
+  AcceptMortgage.cpp
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\AcceptMortgage.cpp(63,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\AcceptMortgage.cpp(65,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\AcceptMortgage.cpp(71,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\AcceptMortgage.cpp(73,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\AcceptMortgage.cpp(79,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\AcceptMortgage.cpp(81,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\AcceptMortgage.cpp(87,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\AcceptMortgage.cpp(89,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\AcceptMortgage.cpp(95,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\AcceptMortgage.cpp(97,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\jpeg\jmemmgr.c(1103,19): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\jpeg\jmemmgr.c(1106,11): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jerror.c
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\jpeg\jerror.c(169,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\jpeg\jerror.c(171,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  Generating Code...
+  Compiling...
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdapistd.c
+  jdapimin.c
+  jcparam.c
+  jcomapi.c
+  jpegload.c
+D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\CMUgraphicsLib\jpegload.c(23,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+AcceptMortgage.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  PT-Project.vcxproj -> D:\Abdallah backup2\handasa\1CCE\Programming\Alf Mabrook\Final Project B7\.\Debug\PT Project.exe
